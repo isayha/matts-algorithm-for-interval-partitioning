@@ -1,0 +1,11 @@
+Variables defined in the question:
+Let L = The set of all tuples l = (s, f) where l is a lecture;
+        s represents the starting time of l,
+        and f represents the finishing time of l
+
+Variables defined in the solution:
+
+Algorithm:
+For all lectures (s, f) in L
+    Sort L in increasing order of s
+
